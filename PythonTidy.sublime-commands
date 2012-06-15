@@ -1,0 +1,3 @@
+[
+    { "caption": "Format (Tidy): Python", "command": "sublime_python_tidy" }
+]
